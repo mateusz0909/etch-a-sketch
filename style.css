@@ -1,0 +1,17 @@
+#app {
+    margin: auto;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+#app > div {
+    margin: 1px;
+    background-color: blanchedalmond;
+    width: 10px;
+    height: 10px
+
+}
+
